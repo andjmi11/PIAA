@@ -1,0 +1,5 @@
+Patterns:
+129
+321
+510
+RabinKarp starwatch: 00:00:00.0000527

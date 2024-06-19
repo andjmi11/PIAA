@@ -1,0 +1,4 @@
+Pattern: Thrown Word: throne Code: t650
+Pattern: Thrown Word: throne Code: t650
+Pattern: Thrown Word: thrown Code: t650
+Stopwatch: 00:00:00.0053152

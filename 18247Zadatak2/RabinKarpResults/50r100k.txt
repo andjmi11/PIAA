@@ -1,0 +1,5 @@
+Patterns:
+329
+11477
+12715
+RabinKarp starwatch: 00:00:00.1337418

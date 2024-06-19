@@ -1,0 +1,4 @@
+Patterns:
+7218
+12327
+RabinKarp starwatch: 00:00:00.0128854

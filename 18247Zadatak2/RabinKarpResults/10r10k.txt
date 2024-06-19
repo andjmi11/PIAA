@@ -1,0 +1,5 @@
+Patterns:
+7181
+7427
+11406
+RabinKarp starwatch: 00:00:00.0109038

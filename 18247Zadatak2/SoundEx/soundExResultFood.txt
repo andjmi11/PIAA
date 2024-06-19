@@ -1,0 +1,8 @@
+Pattern: food Word: food Code: f300
+Pattern: food Word: fit Code: f300
+Pattern: food Word: fait Code: f300
+Pattern: food Word: fed Code: f300
+Pattern: food Word: fit Code: f300
+Pattern: food Word: feet Code: f300
+Pattern: food Word: foot Code: f300
+Stopwatch: 00:00:00.0675127

@@ -1,0 +1,6 @@
+Patterns:
+3762
+6162
+7384
+9705
+RabinKarp starwatch: 00:00:00.0491661

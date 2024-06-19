@@ -1,0 +1,5 @@
+Patterns:
+323
+1364
+1514
+RabinKarp starwatch: 00:00:00.0003086
